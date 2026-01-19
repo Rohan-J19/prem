@@ -114,9 +114,9 @@ git commit -m "adding file"
 touch file2.txt
 git add .
 git commit -m "adding the txt file"
-git log
 git checkout master
 git cherry-pick caed7a943ff048de89bd7da56e04b1db008b6610
+git cherry-pick
 
 Experiment 9: Use Commit ID to view details
 (Source: Pages 30-33)
